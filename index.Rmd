@@ -1,6 +1,6 @@
 ---
 title: 'Introduction to `parsnip`: A Unified Modeling Interface'
-subtitle: 'M7 Code Through'
+subtitle: 'Code Through'
 author: "Melissa Phillips"
 date: "October, 2024"
 output:
